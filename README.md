@@ -1,7 +1,8 @@
 <h2>Hey, I'm Karuna✨</h2>
 
 <h5>Driven by curiosity and the euphoria that comes with creating and building things.</h5>
-<p>I am a CS, Mathematics, and Statistics undergraduate interested in web development and machine learning. I started with web development, building applications to understand how frontend and backend systems connect, and I’m now exploring machine learning to understand how data and models can be integrated into real-world applications.</p>
+
+<p>I am a CS, Mathematics, and Statistics student who taught myself web development and machine learning. I started with web development, building applications to understand how frontend and backend systems connect, and I’m now exploring machine learning to understand how data and models can be integrated into real-world applications.</p>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
